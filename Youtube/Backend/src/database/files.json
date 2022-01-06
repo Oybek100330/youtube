@@ -1,0 +1,42 @@
+[
+    {
+        "videoId": 3,
+        "videoUrl": "/data/files/videos/2021-11-2917-14-00.mp4",
+        "videoTitle": "bigdata",
+        "userId": 4,
+        "videoSize": "11.14 MB",
+        "uploadedData": "2022/01/04 | 01:59"
+    },
+    {
+        "videoId": 4,
+        "videoUrl": "/data/files/videos/JavaScriptvaES61soatda-Boshlang`ichko`nikmalar.mp4",
+        "videoTitle": "bir balo",
+        "userId": 2,
+        "videoSize": "78.35 MB",
+        "uploadedData": "2022/01/04 | 03:45"
+    },
+    {
+        "videoId": 5,
+        "videoUrl": "/data/files/videos/2021-11-2917-14-00.mp4",
+        "videoTitle": "Batalyon",
+        "userId": 4,
+        "videoSize": "11.14 MB",
+        "uploadedData": "2022/01/04 | 12:35"
+    },
+    {
+        "videoId": 8,
+        "videoUrl": "/data/files/videos/2021-11-2917-14-00.mp4",
+        "videoTitle": "data",
+        "userId": 2,
+        "videoSize": "11.14 MB",
+        "uploadedData": "2022/01/04 | 13:21"
+    },
+    {
+        "videoId": 9,
+        "videoUrl": "/data/files/videos/2021-11-2917-14-00.mp4",
+        "videoTitle": "videos",
+        "userId": 5,
+        "videoSize": "11.14 MB",
+        "uploadedData": "2022/01/04 | 13:57"
+    }
+]

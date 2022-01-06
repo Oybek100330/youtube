@@ -1,0 +1,32 @@
+[
+    {
+        "userId": 1,
+        "username": "Sanjar",
+        "password": "a5395250ed9f33e329748eef8a993a85f430ad2141cbd47a9f158b46d9d7f8cd",
+        "avatarUrl": "/data/files/avatar/h-5.jpg"
+    },
+    {
+        "userId": 2,
+        "username": "Karim",
+        "password": "a5395250ed9f33e329748eef8a993a85f430ad2141cbd47a9f158b46d9d7f8cd",
+        "avatarUrl": "/data/files/avatar/h-4.jpg"
+    },
+    {
+        "userId": 3,
+        "username": "Joni",
+        "password": "a5395250ed9f33e329748eef8a993a85f430ad2141cbd47a9f158b46d9d7f8cd",
+        "avatarUrl": "/data/files/avatar/Photo0176.jpg"
+    },
+    {
+        "userId": 4,
+        "username": "Oybek",
+        "password": "a75d63c2bc98e5aa32e0c5cd6e657abaefc47b4a1e89c02cec4af397810bb40b",
+        "avatarUrl": "/data/files/avatar/Фото0374.jpg"
+    },
+    {
+        "userId": 5,
+        "username": "Farida",
+        "password": "664f420410095cbe80dd2fd05da89ac09b29ff7c878d8a95b555d2cc9611d2cb",
+        "avatarUrl": "/data/files/avatar/carbon(8).png"
+    }
+]
